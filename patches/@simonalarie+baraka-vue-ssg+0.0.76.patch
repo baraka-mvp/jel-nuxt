@@ -1,0 +1,26 @@
+diff --git a/node_modules/@simonalarie/baraka-vue-ssg/dist/library.js b/node_modules/@simonalarie/baraka-vue-ssg/dist/library.js
+index fa018c0..682ed01 100644
+--- a/node_modules/@simonalarie/baraka-vue-ssg/dist/library.js
++++ b/node_modules/@simonalarie/baraka-vue-ssg/dist/library.js
+@@ -132,7 +132,7 @@ var script$f = {
+ const props = __props;
+ 
+ vue.onMounted(() => {
+-        alert("** BrkButton mounted ");
++        console.log("** BrkButton mounted ");
+ 
+     
+     });
+diff --git a/node_modules/@simonalarie/baraka-vue-ssg/dist/library.mjs b/node_modules/@simonalarie/baraka-vue-ssg/dist/library.mjs
+index cc04cb1..40fc813 100644
+--- a/node_modules/@simonalarie/baraka-vue-ssg/dist/library.mjs
++++ b/node_modules/@simonalarie/baraka-vue-ssg/dist/library.mjs
+@@ -130,7 +130,7 @@ var script$f = {
+ const props = __props;
+ 
+ onMounted(() => {
+-        alert("** BrkButton mounted ");
++        console.log("** BrkButton mounted ");
+ 
+     
+     });

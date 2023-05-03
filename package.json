@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "tokens": "node installTokens.js"
+  },
+  "devDependencies": {
+    "@baraka-mvp/baraka": "^2.2.0-alpha.1",
+    "@baraka/tokens": "^2.2.0-alpha.1",
+    "copyfiles": "^2.4.1",
+    "nuxt": "^3.0.0-rc.14",
+    "replace-in-files": "^3.0.0",
+    "sass": "^1.55.0",
+    "sass-loader": "^13.1.0",
+    "vue-router": "^4.1.6"
+  }
+}
