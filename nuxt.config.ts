@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   css: [
     "@baraka-mvp/baraka/dist/library.css",
     "@/assets/css/_styles.scss",
-    "@baraka/tokens/build/css/decisions-jel-variables.css",
+    "@baraka-mvp/tokens/build/css/decisions-jel-variables.css",
   ],
   app: {
     head: {

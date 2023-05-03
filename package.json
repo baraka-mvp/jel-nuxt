@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@baraka-mvp/baraka": "^2.2.0-alpha.1",
-    "@baraka/tokens": "^2.2.0-alpha.1",
+    "@baraka-mvp/tokens": "^2.2.0-alpha.3",
     "copyfiles": "^2.4.1",
     "nuxt": "^3.0.0-rc.14",
     "replace-in-files": "^3.0.0",
