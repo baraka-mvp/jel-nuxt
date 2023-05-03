@@ -1,0 +1,26 @@
+{
+  "name": "@simonalarie/baraka-vue-ssg",
+  "version": "0.0.108",
+  "main": "dist/library.js",
+  "module": "dist/library.mjs",
+  "files": [
+    "dist/*"
+  ],
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "rollup": "^2.75.7",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-styles": "^4.0.0",
+    "rollup-plugin-vue": "^6.0.0",
+    "sass": "^1.54.0"
+  }
+}
