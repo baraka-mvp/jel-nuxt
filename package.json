@@ -11,6 +11,7 @@
     "@baraka-mvp/baraka": "^2.2.0-alpha.1",
     "@baraka-mvp/tokens": "^2.2.0-alpha.3",
     "copyfiles": "^2.4.1",
+    "netlify-cli": "^14.4.0",
     "nuxt": "^3.0.0-rc.14",
     "replace-in-files": "^3.0.0",
     "sass": "^1.55.0",
